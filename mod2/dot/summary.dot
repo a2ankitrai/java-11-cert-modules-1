@@ -1,0 +1,4 @@
+digraph "summary" {
+  "a"                                                -> "java.base (java.base)";
+  "b"                                                -> "java.base (java.base)";
+}
